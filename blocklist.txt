@@ -165,4 +165,5 @@
 127.0.0.1	jsecoin.com
 127.0.0.1	fromdoctopdf.com
 127.0.0.1	bettilt99.com
-# Hosts: 157
+127.0.0.1	1xbet75.com
+# Hosts: 158

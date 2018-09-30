@@ -166,4 +166,5 @@
 127.0.0.1	fromdoctopdf.com
 127.0.0.1	bettilt99.com
 127.0.0.1	1xbet75.com
-# Hosts: 158
+127.0.0.1   bakotum.com
+# Hosts: 159

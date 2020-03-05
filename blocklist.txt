@@ -7,15 +7,15 @@
 #
 # BAD SITES START HERE
 #
-127.0.0.1	www.stroossr.info
-127.0.0.1	www.samota.site
-127.0.0.1	www.cuidem.site
+127.0.0.1	stroossr.info
+127.0.0.1	samota.site
+127.0.0.1	cuidem.site
 127.0.0.1	bestperforming.site
 127.0.0.1	monster.necatarine.com
 127.0.0.1	trackmedia101.com
 127.0.0.1	traffic.tc-clicks.com
 127.0.0.1	db.cdn.fail
-127.0.0.1	www.callingbeta.com
+127.0.0.1	callingbeta.com
 127.0.0.1	bopartners.optimus.pt
 127.0.0.1	pertholin.com
 127.0.0.1	328.hotlaksa.com
@@ -40,7 +40,7 @@
 127.0.0.1	thewhizmarket.co
 127.0.0.1	naughty-avenues.com
 127.0.0.1	siva.stream
-127.0.0.1	www.lsbet225.com
+127.0.0.1	lsbet225.com
 127.0.0.1	amarantoptis.com
 127.0.0.1	1xqej.xyz
 127.0.0.1	1xaig.xyz
